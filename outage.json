@@ -1,0 +1,6 @@
+{
+  systemDown: false,
+  title: "Lorem Ipsum Title",
+  message: "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+  footer: "Last updated at Tue, Sep 23rd 2020, 16:45 CT"
+}
